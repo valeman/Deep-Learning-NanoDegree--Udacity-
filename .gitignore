@@ -4,3 +4,9 @@ dlnd-project-1/.ipynb_checkpoints/dlnd-your-first-neural-network-checkpoint.ipyn
 dlnd-project-1/.ipynb_checkpoints/dlnd-your-first-neural-network-checkpoint.ipynb
 
 sentiment_analysis_using_tflearn/.ipynb_checkpoints/Sentiment Analysis with TFLearn-checkpoint.ipynb
+
+MNSIT_using_TFlearn/mnist/t10k-labels-idx1-ubyte.gz
+
+*.gz
+
+MNSIT_using_TFlearn/.ipynb_checkpoints/Handwritten Digit Recognition with TFLearn-checkpoint.ipynb
