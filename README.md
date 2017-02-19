@@ -2,7 +2,7 @@
 
 This repository contains all the codes for assignments and projects that are a part of the Deep Learning NanoDegree program at Udacity.
 
-The following is a developing list of code that can be found in this repository:
+__The following is a developing list of code that can be found in this repository:__
 
 1. Build Neural Net from Scratch -- In this project I built a neural network from scratch using Numpy only. I implemented the backpropagation and forward propagation methods from scratch and then used the network to predict bike sharing.
 
