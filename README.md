@@ -14,6 +14,6 @@ __The following is a developing list of code that can be found in this repositor
 
 5. Sentiment Analysis IMDB Recurrent Neural Net - Here I used recurrent neural networks to train a model to classify IMDB reviews as positive or negative
 
-
+6. Intro to TensorFlow - In this, I have used TensorFlow to normalize, train and predict on the non-MNIST data.
 
 For any suggestions, please write to soutikc@uw.edu
